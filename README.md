@@ -42,3 +42,4 @@ contract MaldaFinance is Ownable {
         emit Withdrawn(msg.sender, principal, interest);
     }
 }
+1qasw
